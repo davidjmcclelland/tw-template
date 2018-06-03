@@ -1,0 +1,22 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+*.ipr
+out
+gen
+.DS_Store
+node_modules
+.tmp
+.sass-cache
+node_modules/
+dist
+scripts
+package
+jasmine-spec-runner.html
+test/linked
+test/junit-report
+test/coverage
